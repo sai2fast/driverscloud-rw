@@ -13,6 +13,8 @@ WHQL signed. Not on the HVCI blocklist. 0/68 AV detections at time of discovery.
 | SHA256 | `2BC72D11FA0BEDA25DC1DBC372967DB49BD3C3A3903913F0877BFF6792724DFE` |
 | Device | `\\.\DriversCloud_amd64` |
 | Transfer | METHOD_BUFFERED |
+| LOLDrivers | [magicsword-io/LOLDrivers#284](https://github.com/magicsword-io/LOLDrivers/issues/284) |
+| CVE | Requested (MITRE) |
 
 ## Primitives
 
